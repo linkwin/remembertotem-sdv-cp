@@ -12,7 +12,7 @@
             "Action": "EditImage",
             "Target": "Maps/springobjects",
             "FromFile": "assets/remembertotem.png",
-            "ToArea": { "X": 191, "Y": 528, "Width": 16, "Height": 16 }
+            "ToArea": { "X": 192, "Y": 528, "Width": 16, "Height": 16 }
         }
     ]
 }
