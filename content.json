@@ -1,0 +1,18 @@
+{
+    "Format": "1.3",
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Entries": {
+                "804": "Remember Totem/20/-300/Crafting/Remember Totem/Place to save location to warp to. Use to warp to placed location"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Maps/springobjects",
+            "FromFile": "assets/remembertotem.png",
+            "ToArea": { "X": 191, "Y": 528, "Width": 16, "Height": 16 }
+        }
+    ]
+}
